@@ -12,9 +12,20 @@ IMPORTS
 YOUR STYLES
 *******************/
 
+/* Body Styling */
+
+body {
+    background: #EDEEEF;
+    
+}
+
+
+
 /* New BG Color */
+
 .lg-backdrop {
     background: #2d2d2d;
+    opacity: .6;
 }
 
 
