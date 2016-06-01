@@ -290,8 +290,33 @@ main {
 .card-content h2 {
     font-size: 1em;
     text-align: center;
+    color: rgba(26, 26, 26, .6);
 }
 
+div.lg-toolbar.group {
+    background: #fff;
+}
+
+div.lg-sub-html {
+    background: #fff;
+    color: rgba(26, 26, 26, .6);
+}
+
+span.lg-close.lg-icon:hover {
+    color: #2d2d2d;
+}
+
+a#lg-download.lg-download.lg-icon:hover {
+    color: #2d2d2d;
+}
+
+div.card-content {
+    background: #EDEEEF;
+}
+
+.card a {
+    background-color: #EFEEEF;
+}
 
 
 /********************
